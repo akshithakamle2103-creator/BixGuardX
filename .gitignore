@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.save
+
+bixguardx.db
+bixguardx_security.db
+
+.env
+.env.*
+!.env.example
+web_login_detector.pyy
